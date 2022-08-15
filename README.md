@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shruthiullas
+- 👋 Hi, I’m @shruthi-prabhakar
 - 👀 I’m interested in Python and Data Science albeit specifically AI and ML learning's
 - 🌱 I’m currently learning Python and AWS,GCP & Azure Cloud tech
 <!---
